@@ -21,9 +21,63 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vladyslav-vlasov-4454a5295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vladyslav-vlasov-4454a5295/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/maxtoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/maxtoka" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="left">
+
+  <!-- Unity & Unity-related tools -->
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/modesttree/Zenject" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/1744476?s=200&v=4" alt="Zenject" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/hadashiA/VContainer" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/5777082?s=200&v=4" alt="VContainer" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/chromealex/ecs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/chromealex/ecs/master/Docs/Logo/logo.png" alt="ME.ECS" width="40" height="40"/>
+  </a>
+  <a href="https://odininspector.com/" target="_blank" rel="noreferrer">
+    <img src="https://odininspector.com/img/icon-144.png" alt="Odin Inspector" width="40" height="40"/>
+  </a>
+  <a href="https://odininspector.com/" target="_blank" rel="noreferrer">
+    <img src="https://odininspector.com/img/icon-144.png" alt="Odin Validator" width="40" height="40"/>
+  </a>
+  <a href="https://docs-multiplayer.unity3d.com/" target="_blank" rel="noreferrer">
+    <img src="https://unity.com/sites/default/files/styles/social_preview/public/2022-07/Unity-multiplayer.png" alt="Netcode for GameObjects" width="40" height="40"/>
+  </a>
+  <a href="https://www.photonengine.com/en-US/Photon" target="_blank" rel="noreferrer">
+    <img src="https://www.photonengine.com/img/logo.png" alt="Photon Engine" width="40" height="40"/>
+  </a>
+
+  <!-- General Tools and Languages -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+
+</p>
+    
 
 
 <h3 align="left">Support:</h3>
