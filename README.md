@@ -29,25 +29,22 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
   <a href="https://github.com/modesttree/Zenject" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/1744476?s=200&v=4" alt="Zenject" width="40" height="40"/>
+    <img src="https://pbs.twimg.com/profile_images/1379491996763574272/kJBWq3T4_400x400.jpg" alt="Zenject" width="40" height="40"/>
   </a>
   <a href="https://github.com/hadashiA/VContainer" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/5777082?s=200&v=4" alt="VContainer" width="40" height="40"/>
+    <img src="https://www.google.com/s2/favicons?sz=128&domain_url=https%3A%2F%2Fvcontainer.hadashikick.jp%2F" alt="VContainer" width="40" height="40"/>
   </a>
   <a href="https://github.com/chromealex/ecs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/chromealex/ecs/master/Docs/Logo/logo.png" alt="ME.ECS" width="40" height="40"/>
+    <img src="https://repository-images.githubusercontent.com/231451957/361608f5-f9e9-4ab9-990e-c8f7f4a86142" alt="ME.ECS" width="40" height="40"/>
   </a>
   <a href="https://odininspector.com/" target="_blank" rel="noreferrer">
-    <img src="https://odininspector.com/img/icon-144.png" alt="Odin Inspector" width="40" height="40"/>
-  </a>
-  <a href="https://odininspector.com/" target="_blank" rel="noreferrer">
-    <img src="https://odininspector.com/img/icon-144.png" alt="Odin Validator" width="40" height="40"/>
+    <img src="https://i0.wp.com/game.courses/wp-content/uploads/2022/09/OdinInspector-e1664207989610.png" alt="Odin Inspector" width="40" height="40"/>
   </a>
   <a href="https://docs-multiplayer.unity3d.com/" target="_blank" rel="noreferrer">
-    <img src="https://unity.com/sites/default/files/styles/social_preview/public/2022-07/Unity-multiplayer.png" alt="Netcode for GameObjects" width="40" height="40"/>
+    <img src="https://framerusercontent.com/images/dFVPrjjyg6CkgT9Oi598xUcRUeA.svg" alt="Netcode for GameObjects" width="40" height="40"/>
   </a>
   <a href="https://www.photonengine.com/en-US/Photon" target="_blank" rel="noreferrer">
-    <img src="https://www.photonengine.com/img/logo.png" alt="Photon Engine" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJX2juHX3401yHsgAWc_vhUn9eOGlyl8D6xjxqtnYKtPoDTQjK9wGJoUUfoR5zsVTfg&usqp=CAU" alt="Photon" width="40" height="40"/>
   </a>
 
   <!-- General Tools and Languages -->
@@ -77,7 +74,7 @@
   </a>
 
 </p>
-    
+
 
 
 <h3 align="left">Support:</h3>
