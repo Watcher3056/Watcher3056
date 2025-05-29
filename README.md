@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vlad_notvampire" target="blank"><img src="https://img.shields.io/twitter/follow/vlad_notvampire?logo=twitter&style=for-the-badge" alt="vlad_notvampire" /></a> </p>
 
-- 🔭 I’m currently working on **Framework-agnostic ECS framework**
+- 🔭 Creator of EasyCS - **Framework-agnostic ECS framework for Unity**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/maxtoka](https://www.behance.net/maxtoka)
 
