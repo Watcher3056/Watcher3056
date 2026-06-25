@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladyslav Vlasov</h1>
-<h3 align="center">🚀 Senior Unity Developer | Game Designer | Web3 Innovator</h3>
+<h3 align="center">🚀 Technical Lead | Senior Unity Developer | Game Designer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=watcher3056" alt="watcher3056" /></a> </p>
 
